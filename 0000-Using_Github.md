@@ -1,7 +1,7 @@
 # Lightweight ADR
 
 # Title
-Use GitHub for this task
+Use draw.io for domain modelling
 
 ## Status
 
@@ -9,13 +9,11 @@ Accepted
 
 ## Context
 
-We need a decision recording template for this. As a result, we chose "Lightweight ADR".
+We need to construct a diagram for our domain model. 
 
 ## Decision
 
-We've decided to set up a GitHub repo.
-We used figma to create the low fidelity prototype. 
-We used draw.io to create the domain model. 
+We decided to use draw.io for several reasons as it's a top-rated confluence diagramming solution since 2013. It is also versatile and easy-to-use, with both ready-made and customizable elements. Draw.io works on desktop or mobile instances. Finally, in regards to security, it is SO 9001 compliant
 
 ## Consequences
 
