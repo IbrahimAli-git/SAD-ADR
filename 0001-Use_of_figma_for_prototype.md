@@ -7,14 +7,12 @@ Accepted
 ## Context
 We need to use a tool/method to create a low-level prototype, we have multiple options:
 * Figma
-* ////
-Need to take how much time we have into consideration
-We need a tool to be able to collaborate with class mates on this task, therefore need a tool for this.
+* Protopie
+* Whiteboard
+* Balsamiq
 
 ## Decision
-Use lightweight ADR
-We've decided to set up a GitHub repo
+We decided to use figma to create a low-level prototype to showcase potentially how the website would look like.
 
 ## Consequences
-Can create decision record quickly
-All collaborators can now contribute to this task
+Figma allowed us to seamlessly create a prototype. The features in Figma made it easy to showcase some functionality and give a somewhat realistic representation of how the website operates
