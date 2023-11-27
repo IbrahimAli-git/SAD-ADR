@@ -1,1 +1,15 @@
+# Lightweight ADR
 
+# Title
+Factory Design In Visa Application System
+
+## Status
+Accepted
+
+## Context
+We will be using the factory design pattern to implement the different types of visa applications that need to be processed in the system. 
+
+## Decision
+
+
+## Consequences
